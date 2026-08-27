@@ -1,114 +1,96 @@
+ <!-- ========================================================= -->
+
+<!--                SAJJAD HUSSAIN • PROFILE README            -->
+
+<!--                PREMIUM ANIMATED EDITION                   -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sajjad%20Hussain&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=JUNIOR%20LARAVEL%20%2F%20PHP%20DEVELOPER&descSize=19&descAlignY=62&animation=fadeIn&color=0:050816,50:111c44,100:7c3aed" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=SAJJAD%20HUSSAIN&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=JUNIOR%20LARAVEL%20%2F%20PHP%20DEVELOPER&descSize=20&descAlignY=60&animation=twinkling&color=0:0f0c29,45:302b63,100:7c3aed" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Hey+%F0%9F%91%8B+I'm+Sajjad+Hussain;Junior+Laravel+%2F+PHP+Developer+%F0%9F%90%98;I+Build+Modern+Web+Applications+%F0%9F%9A%80;PHP+%7C+Laravel+%7C+MySQL+%7C+JavaScript;Always+Learning.+Always+Building+%E2%9C%A8" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sajjad+Hussain;Junior+Laravel+%2F+PHP+Developer+%F0%9F%92%BB;I+Build+Modern+Web+Applications+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+MySQL+%7C+JavaScript;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated Typing"/>
 
 <br><br>
 
-<!-- ===================== PROFILE IMAGE ===================== -->
+<img src="https://komarev.com/ghpvc/?username=sajjad12-14&label=VISITORS&style=for-the-badge&color=7c3aed"/>
 
-<img src="https://github.com/sajjad12-14.png" width="170" height="170" style="border-radius:50%;" alt="Sajjad Hussain"/>
+<img src="https://img.shields.io/github/followers/sajjad12-14?style=for-the-badge&logo=github&label=FOLLOWERS&color=302b63"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/🎓%20EDUCATION-INTERMEDIATE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻%20ROLE-JUNIOR%20DEVELOPER-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌐%20FOCUS-WEB%20DEVELOPMENT-06B6D4?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://github.com/sajjad12-14">
-<img src="https://img.shields.io/badge/GitHub-sajjad12--14-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sajjad-hussain-14bab7429">
-<img src="https://img.shields.io/badge/LinkedIn-Sajjad%20Hussain-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sajjadhussaian14@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/github/stars/sajjad12-14?style=for-the-badge&logo=github&label=STARS&color=7c3aed"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+## ⚡ WHO AM I?
 
-### 🧑‍💻 Who Am I?
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 
-```javascript
-const sajjad = {
-    name: "Sajjad Hussain",
-    role: "Junior Laravel / PHP Developer",
+<br>
 
-    education: "Intermediate",
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&height=45&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat;Creating+clean%2C+responsive+and+functional+websites;Always+learning.+Always+building." alt="Developer Animation"/>
 
-    passion: "Web Development",
+</div>
 
-    focus: [
-        "Clean Code",
-        "Responsive UI",
-        "Backend Development",
-        "Database Management"
-    ],
+<br>
 
-    technologies: [
-        "PHP",
-        "Laravel",
-        "MySQL",
-        "JavaScript",
-        "React"
-    ],
+<div align="center">
 
-    mindset: "Always Learning 🚀"
-};
+| 🎓 Education |            💻 Role           |     🚀 Focus    |    🌍 Availability    |
+| :----------: | :--------------------------: | :-------------: | :-------------------: |
+| Intermediate | Junior Laravel/PHP Developer | Web Development | Open to Opportunities |
 
-console.log("Let's build something amazing!");
-```
-
-</td>
-
-<td width="50%">
-
-### ⚡ What I Do
-
-```text
-┌──────────────────────────────┐
-│                              │
-│  🐘 PHP & Laravel             │
-│                              │
-│  ⚡ JavaScript Development    │
-│                              │
-│  🗄️ MySQL Databases           │
-│                              │
-│  🎨 Responsive Websites      │
-│                              │
-│  ⚛️ React Frontend            │
-│                              │
-│  ✨ GSAP Animations           │
-│                              │
-│  🌐 WordPress Development    │
-│                              │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🧬 Tech Stack
+# 🧬 My Developer Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,mysql,wordpress,react,tailwind,git,github,vscode&perline=7"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=40&lines=Frontend+%E2%9A%A1;Backend+%E2%9A%99%EF%B8%8F;Laravel+%26+PHP+%F0%9F%90%98;MySQL+%F0%9F%97%84%EF%B8%8F;WordPress+%F0%9F%8C%90;GSAP+Animations+%F0%9F%9A%80" alt="Skills Animation"/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning & Building
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   🚀  FULL STACK WEB APPLICATIONS                     │
+│                                                        │
+│   🐘  PHP & LARAVEL PROJECTS                          │
+│                                                        │
+│   ⚡  MODERN JAVASCRIPT APPLICATIONS                  │
+│                                                        │
+│   ⚛️   REACT & FRONTEND EXPERIENCES                    │
+│                                                        │
+│   🗄️   MYSQL DATABASE SYSTEMS                          │
+│                                                        │
+│   🎨  RESPONSIVE & INTERACTIVE UI                     │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# 🔥 Tech Stack
 
 <div align="center">
 
@@ -130,173 +112,109 @@ console.log("Let's build something amazing!");
 
 <br><br>
 
-### 🛠️ Tools
+### 🛠️ CMS & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress&perline=6"/>
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman&perline=7"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+### ✨ Animation
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 What I'm Building
+# 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 🛒 E-Commerce Website
 
-## 🐘
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### Laravel Apps
+<br><br>
 
-Building dynamic backend applications with PHP & Laravel.
+A modern e-commerce application with product management,
+authentication, CRUD operations and database integration.
 
-</td>
+<br>
 
-<td align="center" width="25%">
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PROJECTS-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## ⚛️
+---
 
-### React Apps
+### ⚡ Laravel CRUD Application
 
-Creating modern and interactive frontend experiences.
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</td>
+<br><br>
 
-<td align="center" width="25%">
+CRUD-based web application with create, read, update and
+delete functionality using Laravel and MySQL.
 
-## 🗄️
+<br>
 
-### Database Systems
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/⚡%20VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Working with MySQL and structured application data.
+---
 
-</td>
+### 🎨 Interactive Frontend
 
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 
-## 🎨
+<br><br>
 
-### Modern UI
+Responsive and interactive web experiences with modern
+UI animations and smooth user interactions.
 
-Building responsive interfaces with animations.
+<br>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-# 💎 Featured Projects
+# 📊 GitHub Command Center
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🛒 E-Commerce
-
-<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-Modern e-commerce application with product management, authentication, CRUD operations and database integration.
-
-<br><br>
-
 <a href="https://github.com/sajjad12-14">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sajjad12-14&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 </a>
 
-</td>
-
-<td width="33%" valign="top">
-
-### ⚡ Laravel CRUD
-
-<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-CRUD-based web application featuring create, read, update and delete operations with MySQL.
-
-<br><br>
-
 <a href="https://github.com/sajjad12-14">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad12-14&layout=compact&hide_border=true&theme=tokyonight"/>
 </a>
 
-</td>
-
-<td width="33%" valign="top">
-
-### 🎨 Interactive UI
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
 <br><br>
 
-Responsive websites with modern layouts, JavaScript interactions and smooth GSAP animations.
-
-<br><br>
-
-<a href="https://github.com/sajjad12-14">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=sajjad12-14&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<a href="https://github.com/sajjad12-14">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajjad12-14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF"/>
-
-</a>
-
-<a href="https://github.com/sajjad12-14">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad12-14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
-
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=sajjad12-14&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-</div>
-
----
-
-# 🌌 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad12-14&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sajjad12-14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
 
 </div>
 
@@ -306,76 +224,63 @@ Responsive websites with modern layouts, JavaScript interactions and smooth GSAP
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Every+commit+counts+%F0%9F%90%8D;Keep+Coding+%F0%9F%94%A5;Keep+Building+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Snake Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Every+commit+counts+%F0%9F%90%8D;Keep+coding+%F0%9F%94%A5;Keep+building+%F0%9F%9A%80" alt="Snake Caption"/>
 
 </div>
 
 ---
 
-# 🧠 My Developer Journey
+# 🌌 Contribution Universe
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad12-14&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧠 Developer Roadmap
 
 <div align="center">
 
 ```text
-                         SAJJAD HUSSAIN
-                               │
-                               ▼
-                       🌐 WEB DEVELOPMENT
-                               │
-                ┌──────────────┴──────────────┐
-                ▼                             ▼
-           🎨 FRONTEND                   🐘 BACKEND
-                │                             │
-                ▼                             ▼
-        HTML • CSS • JS              PHP • Laravel
-                │                             │
-                └──────────────┬──────────────┘
-                               ▼
-                          🗄️ MYSQL
-                               │
-                               ▼
-                       🚀 FULL STACK
-                               │
-                               ▼
-                         ⚛️ REACT
-                               │
-                               ▼
-                    ☁️ REAL WORLD APPS
-                               │
-                               ▼
-                       💼 PROFESSIONAL
+                    SAJJAD • 2026
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+        WEB DEVELOPMENT          BACKEND
+             │                       │
+             ▼                       ▼
+     HTML / CSS / JS          PHP / LARAVEL
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                    MYSQL / APIs
+                         │
+                         ▼
+                 FULL STACK APPS
+                         │
+                         ▼
+                 ADVANCED REACT
+                         │
+                         ▼
+                    OPEN SOURCE
 ```
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# 📚 What I'm Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=Advanced+Laravel+%F0%9F%90%98;Advanced+JavaScript+%E2%9A%A1;React+%E2%9A%9B%EF%B8%8F;REST+APIs+%F0%9F%94%8C;Better+UI%2FUX+%F0%9F%8E%A8;Real+World+Projects+%F0%9F%9A%80" alt="Learning Animation"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal                             | Status |
-| :------------------------------- | :----: |
-| 🐘 Improve Laravel Skills        |   🔥   |
-| ⚡ Master JavaScript              |   🚀   |
-| ⚛️ Build React Projects          |   🔥   |
-| 🗄️ Improve Database Skills      |   🚀   |
-| 🌐 Build Real-World Applications |   🔥   |
-| 💼 Get Professional Experience   |   🎯   |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&height=100&lines=Improving+Laravel+%26+PHP+Skills+%F0%9F%90%98;Building+Real+World+Web+Applications+%F0%9F%9A%80;Learning+Advanced+JavaScript+%E2%9A%A1;Exploring+React+%26+Modern+Frontend+%E2%9A%9B%EF%B8%8F;Growing+Every+Day+%F0%9F%94%A5" alt="Learning Animation"/>
 
 </div>
 
@@ -385,16 +290,16 @@ Responsive websites with modern layouts, JavaScript interactions and smooth GSAP
 
 <div align="center">
 
-<a href="https://github.com/sajjad12-14">
-<img src="https://img.shields.io/badge/GitHub-sajjad12--14-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sajjad-hussain-14bab7429">
-<img src="https://img.shields.io/badge/LinkedIn-Sajjad%20Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sajjadhussaian14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sajjadhussaian14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -403,22 +308,16 @@ Responsive websites with modern layouts, JavaScript interactions and smooth GSAP
 
 <div align="center">
 
-## 🚀 Let's Build Something Amazing Together!
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Grow;Turning+Ideas+Into+Web+Applications+%F0%9F%9A%80;Thanks+For+Visiting+My+Profile+%F0%9F%91%8B" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="Footer Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sajjad12-14&label=PROFILE%20VIEWS&style=for-the-badge&color=7C3AED"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:7c3aed,50:302b63,100:050816" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:0f0c29,50:302b63,100:7c3aed" width="100%"/>
 
 </div>
 
 <!-- ========================================================= -->
 
-<!--                 SAJJAD HUSSAIN • 2026                     -->
+<!--                    END OF README                           -->
 
 <!-- ========================================================= -->
