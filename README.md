@@ -1,26 +1,26 @@
 <!-- ========================================================= -->
 
-<!--              SAJJAD HUSSAIN • PROFILE README          -->
+<!--                SAJJAD HUSSAIN • PROFILE README            -->
 
-<!--              FULL ANIMATED PREMIUM EDITION               -->
+<!--                PREMIUM ANIMATED EDITION                   -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=AVAIS%20AHMED%20MEHDI&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=20&descAlignY=60&animation=twinkling&color=0:0f0c29,45:302b63,100:7c3aed" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=SAJJAD%20HUSSAIN&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=JUNIOR%20LARAVEL%20%2F%20PHP%20DEVELOPER&descSize=20&descAlignY=60&animation=twinkling&color=0:0f0c29,45:302b63,100:7c3aed" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Avais+Ahmed+Mehdi;Full+Stack+Web+Developer+%F0%9F%92%BB;I+Build+Modern+%26+Scalable+Web+Apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sajjad+Hussain;Junior+Laravel+%2F+PHP+Developer+%F0%9F%92%BB;I+Build+Modern+Web+Applications+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+MySQL+%7C+JavaScript;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated Typing"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=avais0&label=VISITORS&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=sajjad12-14&label=VISITORS&style=for-the-badge&color=7c3aed"/>
 
-<img src="https://img.shields.io/github/followers/avais0?style=for-the-badge&logo=github&label=FOLLOWERS&color=302b63"/>
+<img src="https://img.shields.io/github/followers/sajjad12-14?style=for-the-badge&logo=github&label=FOLLOWERS&color=302b63"/>
 
-<img src="https://img.shields.io/github/stars/avais0?style=for-the-badge&logo=github&label=STARS&color=7c3aed"/>
+<img src="https://img.shields.io/github/stars/sajjad12-14?style=for-the-badge&logo=github&label=STARS&color=7c3aed"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&height=45&lines=Code+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Repeat;Creating+clean%2C+fast+and+scalable+applications;Always+learning.+Always+building." alt="Developer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&height=45&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat;Creating+clean%2C+responsive+and+functional+websites;Always+learning.+Always+building." alt="Developer Animation"/>
 
 </div>
 
@@ -42,9 +42,9 @@
 
 <div align="center">
 
-|     🎓 Education    |        💻 Role       |     🚀 Focus    | 🌍 Availability |
-| :-----------------: | :------------------: | :-------------: | :-------------: |
-|  INTERMEDIATE | Full Stack Developer | Modern Web Apps |      Remote     |
+| 🎓 Education |            💻 Role           |     🚀 Focus    |    🌍 Availability    |
+| :----------: | :--------------------------: | :-------------: | :-------------------: |
+| Intermediate | Junior Laravel/PHP Developer | Web Development | Open to Opportunities |
 
 </div>
 
@@ -54,32 +54,34 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,mongodb,mysql,git,github,docker,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,mysql,wordpress,react,tailwind,git,github,vscode&perline=7"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=40&lines=Frontend+%E2%9A%A1;Backend+%E2%9A%99%EF%B8%8F;Databases+%F0%9F%97%84%EF%B8%8F;DevOps+%F0%9F%9A%80;AI+%F0%9F%A4%96" alt="Skills Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=40&lines=Frontend+%E2%9A%A1;Backend+%E2%9A%99%EF%B8%8F;Laravel+%26+PHP+%F0%9F%90%98;MySQL+%F0%9F%97%84%EF%B8%8F;WordPress+%F0%9F%8C%90;GSAP+Animations+%F0%9F%9A%80" alt="Skills Animation"/>
 
 </div>
 
 ---
 
-# 🎯 Currently Building
+# 🎯 Currently Learning & Building
 
 <div align="center">
 
 ```text
 ╭────────────────────────────────────────────────────────╮
 │                                                        │
-│   🚀  FULL STACK APPLICATIONS                          │
+│   🚀  FULL STACK WEB APPLICATIONS                     │
 │                                                        │
-│   ⚛️   MODERN REACT / NEXT.JS EXPERIENCES              │
+│   🐘  PHP & LARAVEL PROJECTS                          │
 │                                                        │
-│   🤖  AI POWERED WEB APPLICATIONS                     │
+│   ⚡  MODERN JAVASCRIPT APPLICATIONS                  │
 │                                                        │
-│   ☁️   CLOUD & DEPLOYMENT                              │
+│   ⚛️   REACT & FRONTEND EXPERIENCES                    │
 │                                                        │
-│   🧠  SCALABLE BACKEND ARCHITECTURE                   │
+│   🗄️   MYSQL DATABASE SYSTEMS                          │
+│                                                        │
+│   🎨  RESPONSIVE & INTERACTIVE UI                     │
 │                                                        │
 ╰────────────────────────────────────────────────────────╯
 ```
@@ -88,31 +90,37 @@
 
 ---
 
-# 🔥 Tech Stack — Animated Wall
+# 🔥 Tech Stack
 
 <div align="center">
 
-### Frontend
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,tailwind&perline=7"/>
 
 <br><br>
 
-### Database
+### 🐘 Backend
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=6"/>
+<img src="https://skillicons.dev/icons?i=php,laravel&perline=6"/>
 
 <br><br>
 
-### Tools & DevOps
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&perline=7"/>
+<img src="https://skillicons.dev/icons?i=mysql&perline=6"/>
+
+<br><br>
+
+### 🛠️ CMS & Tools
+
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman&perline=7"/>
+
+<br><br>
+
+### ✨ Animation
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 
 </div>
 
@@ -122,59 +130,60 @@
 
 <div align="center">
 
-### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Website
 
-<img src="https://img.shields.io/badge/FULL%20STACK-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+A modern e-commerce application with product management,
+authentication, CRUD operations and database integration.
 
 <br>
 
-Modern e-commerce platform with authentication, products,
-dashboard and scalable backend architecture.
-
-<br>
-
-<a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-181717?style=for-the-badge"/>
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PROJECTS-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-### ⚡ SaaS Task Manager
+### ⚡ Laravel CRUD Application
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+CRUD-based web application with create, read, update and
+delete functionality using Laravel and MySQL.
 
 <br>
 
-Real-time task management system with collaborative
-workflows and role-based access.
-
-<br>
-
-<a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/⚡%20VIEW%20PROJECT-181717?style=for-the-badge"/>
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/⚡%20VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-### 🤖 AI Content Generator
+### 🎨 Interactive Frontend
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+
+<br><br>
+
+Responsive and interactive web experiences with modern
+UI animations and smooth user interactions.
 
 <br>
 
-AI-powered platform for generating content,
-metadata and social media ideas.
-
-<br>
-
-<a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/🤖%20VIEW%20PROJECT-181717?style=for-the-badge"/>
+<a href="https://github.com/sajjad12-14">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge"/>
 </a>
 
 </div>
@@ -185,17 +194,17 @@ metadata and social media ideas.
 
 <div align="center">
 
-<a href="https://github.com/avais0">
-<img src="https://github-readme-stats.vercel.app/api?username=avais0&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+<a href="https://github.com/sajjad12-14">
+<img src="https://github-readme-stats.vercel.app/api?username=sajjad12-14&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 </a>
 
-<a href="https://github.com/avais0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avais0&layout=compact&hide_border=true&theme=tokyonight"/>
+<a href="https://github.com/sajjad12-14">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad12-14&layout=compact&hide_border=true&theme=tokyonight"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=avais0&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sajjad12-14&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -205,7 +214,7 @@ metadata and social media ideas.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=avais0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sajjad12-14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
 
 </div>
 
@@ -229,7 +238,7 @@ metadata and social media ideas.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avais0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad12-14&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -240,45 +249,38 @@ metadata and social media ideas.
 <div align="center">
 
 ```text
-                  AVAIS • 2026
-                       │
-          ┌────────────┴────────────┐
-          ▼                         ▼
-     FULL STACK                  AI / ML
-          │                         │
-          ▼                         ▼
-     NEXT.JS / NODE             AI APPS
-          │                         │
-          └────────────┬────────────┘
-                       ▼
-                  CLOUD / DEVOPS
-                       │
-                       ▼
-                PRODUCTION APPS
-                       │
-                       ▼
-                 OPEN SOURCE
+                    SAJJAD • 2026
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+        WEB DEVELOPMENT          BACKEND
+             │                       │
+             ▼                       ▼
+     HTML / CSS / JS          PHP / LARAVEL
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                    MYSQL / APIs
+                         │
+                         ▼
+                 FULL STACK APPS
+                         │
+                         ▼
+                 ADVANCED REACT
+                         │
+                         ▼
+                    OPEN SOURCE
 ```
 
 </div>
 
 ---
 
-# 💻 Competitive Programming
+# 📚 What I'm Learning
 
 <div align="center">
 
-<a href="https://github.com/avais0/LeetCode_DailyChallenge_2024">
-<img src="https://img.shields.io/badge/LEETCODE%20DAILY-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/avais0/CP-Templates">
-<img src="https://img.shields.io/badge/CP%20TEMPLATES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/avais0/Codeforces-Polygon-Template">
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&height=100&lines=Improving+Laravel+%26+PHP+Skills+%F0%9F%90%98;Building+Real+World+Web+Applications+%F0%9F%9A%80;Learning+Advanced+JavaScript+%E2%9A%A1;Exploring+React+%26+Modern+Frontend+%E2%9A%9B%EF%B8%8F;Growing+Every+Day+%F0%9F%94%A5" alt="Learning Animation"/>
 
 </div>
 
@@ -288,15 +290,15 @@ metadata and social media ideas.
 
 <div align="center">
 
-<a href="https://pk.linkedin.com/in/avais-ahmed-bbb99133">
+<a href="https://www.linkedin.com/in/sajjad-hussain-14bab7429">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:qarnibaltistani@gmail.com">
+<a href="mailto:sajjadhussaian14@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/avais0">
+<a href="https://github.com/sajjad12-14">
 <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -306,7 +308,7 @@ metadata and social media ideas.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="Footer Animation"/>
 
 <br><br>
 
@@ -316,6 +318,6 @@ metadata and social media ideas.
 
 <!-- ========================================================= -->
 
-<!--                    END OF README                          -->
+<!--                    END OF README                           -->
 
 <!-- ========================================================= -->
